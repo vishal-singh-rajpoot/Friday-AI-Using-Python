@@ -1,4 +1,4 @@
-# Friday-AI-Using-Python
+# Friday-AI-Assistant-Using-Python
 Created a small example of AI which will help me in some daily tasks.
 
 What can this A.I. assistant do for you?
