@@ -9,7 +9,7 @@ It is capable of opening websites like Google, Youtube, etc., in a web browser.
 It is capable of opening your code editor or IDE with a single voice command.
 
 Defining Speak Function
-The and first and foremost thing for an A.I. assistant is that it should be able to speak. To make our J.A.R.V.I.S. talk, we will make a function called speak(). This function will take audio as an argument, and then, it will pronounce it.
+The and first and foremost thing for an A.I. assistant is that it should be able to speak. To make our F.R.I.D.A.Y. talk, we will make a function called speak(). This function will take audio as an argument, and then, it will pronounce it.
 
  
 
